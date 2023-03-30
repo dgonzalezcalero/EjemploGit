@@ -6,6 +6,10 @@ public class ClaseHola {
 		System.out.println("Adios Git");
 		
 		System.out.println("Estamos comprobando el plugin egit");
+		if (true) {
+			System.out.println("Rama condicional");
+		}
+		
 	}
 
 }
